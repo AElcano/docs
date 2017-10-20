@@ -29,6 +29,8 @@ Visit your TastyIgniter admin page at /admin. Go to `Maintenance` under `System 
 Backup your files using FTP clients or cPanel filemanager to copy or create a zip of all the existing TastyIgniter files and folders.
 
 ### Restoring Your Database From Backup
++Go into maintenance mode (system->setting->server)
++
 Visit your TastyIgniter admin maintenance page. Under `Exisiting Backups` tab click the `Restore` button next to the database backup you wish to restore.
 
 ## Manual Update
